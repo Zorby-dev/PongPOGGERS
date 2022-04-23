@@ -5,4 +5,5 @@ An implementation of the [game](https://en.wikipedia.org/wiki/Video_game) [Pong]
 Prerequisites:
  - [Git](https://git-scm.com/)
  - [Python](https://www.python.org/)
+
 [Clone](https://git-scm.com/docs/git-clone) the repository and run `wrapper.py`.
